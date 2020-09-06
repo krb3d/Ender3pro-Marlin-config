@@ -1,6 +1,6 @@
 # My Marlin config
 
-### For **Ender-3pro** with **SKR Mini E3 V2.0** control board & **3DTouch** sensor.
+## For **Ender-3pro** with **SKR Mini E3 V2.0** control board & **3DTouch** sensor
 
 Based on this [Reddit guide](https://www.reddit.com/r/ender3/comments/h8y1ia/marlin_20x_guide_skr_mini_e3_v20_ender_3/).
 
